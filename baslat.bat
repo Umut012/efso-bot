@@ -3,6 +3,6 @@ title Shaped Bot
 color c
 cls
 :a
-node index.js
+node bot.js
 goto a
 pause
