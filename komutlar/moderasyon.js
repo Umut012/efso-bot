@@ -45,7 +45,7 @@ exports.run = async (bot, message, args) => {
 
 
   .addField('\u200b', '\u200B')
-  .addField("**<:discord:793769836068470816> Önemliler**", " [Beni Davet et](https://discordapp.com/oauth2/authorize?client_id=733720326646792263&scope=bot&permissions=2146958847) \n[Destek Sunucusu](https://discord.gg/plasmic)")
+  .addField("**<:discord:793769836068470816> Önemliler**", " [Beni Davet et](https://discord.com/api/oauth2/authorize?client_id=916742629700562974&permissions=8&scope=bot) \n[Destek Sunucusu](YAKINDA!)")
 
 
  return msg.channel.send(annencilermaldır);
@@ -66,7 +66,7 @@ exports.run = async (bot, message, args) => {
     .addField(`**<:fixit:793770061386743818> Timed Mute**`, `${prefix}mute`, false)
     .addField(`**<:fixit:793770061386743818> Timed Unmute**`, `${prefix}unmute`, false)
       .addField('\u200b', '\u200B')
-    .addField("**<:discord:793769836068470816> Important**", " [Invite Me](https://discordapp.com/oauth2/authorize?client_id=733720326646792263&scope=bot&permissions=2146958847) \n[Support Realm](https://discord.gg/plasmic)")
+    .addField("**<:discord:793769836068470816> Important**", " [Invite Me](https://discord.com/api/oauth2/authorize?client_id=916742629700562974&permissions=8&scope=bot) \n[Support Realm](YAKINDA!)")
 
    
    
