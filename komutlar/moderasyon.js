@@ -45,7 +45,7 @@ exports.run = async (bot, message, args) => {
 
 
   .addField('\u200b', '\u200B')
-  .addField("**<:discord:793769836068470816> Önemliler**", " [Beni Davet et](https://discordapp.com/oauth2/authorize?client_id=733720326646792263&scope=bot&permissions=2146958847) \n[Destek Sunucusu](https://discord.gg/plasmic)")
+  .addField("**<:discord:793769836068470816> Önemliler**", " [Beni Davet et](https://discord.com/api/oauth2/authorize?client_id=916742629700562974&permissions=8&scope=bot) \n[Destek Sunucusu](YAKINDA!)")
 
 
  return msg.channel.send(annencilermaldır);
